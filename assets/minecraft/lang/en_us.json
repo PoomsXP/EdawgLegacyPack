@@ -27,17 +27,12 @@
     "item.minecraft.spider_eye": "Spaghetti",
     "item.minecraft.rotten_flesh": "Ice Cream Cone",
   
-    "item.minecraft.music_disc_13": "C418 - 13",
-    "item.minecraft.music_disc_cat": "Krewella - Come And Get It (Razihel Remix)",
-    "item.minecraft.music_disc_blocks": "Krewella - Alive (Pegboard Nerds Remix)",
-    "item.minecraft.music_disc_chirp": "DJ ASSASS1N - Frag-Out",
-    "item.minecraft.music_disc_far": "The Specktators - Off The Leash",
-    "item.minecraft.music_disc_mall": "Baauer - Harlem Shake",
-    "item.minecraft.music_disc_mellohi": "Stan SB - Let This Go",
-    "item.minecraft.music_disc_stal": "Meg & Dia - Monster (DotEXE Remix)",
-    "item.minecraft.music_disc_strad": "C418 - strad",
-    "item.minecraft.music_disc_ward": "C418 - ward",
-    "item.minecraft.music_disc_11": "C418 - 11",
-    "item.minecraft.music_disc_wait": "C418 - wait"
+    "item.minecraft.music_disc_cat": "Music Disc - Krewella - Come And Get It (Razihel Remix)",
+    "item.minecraft.music_disc_blocks": "Music Disc - Krewella - Alive (Pegboard Nerds Remix)",
+    "item.minecraft.music_disc_chirp": "Music Disc - DJ ASSASS1N - Frag-Out",
+    "item.minecraft.music_disc_far": "Music Disc - The Specktators - Off The Leash",
+    "item.minecraft.music_disc_mall": "Music Disc - Baauer - Harlem Shake",
+    "item.minecraft.music_disc_mellohi": "Music Disc - Stan SB - Let This Go",
+    "item.minecraft.music_disc_stal": "Music Disc - Meg & Dia - Monster (DotEXE Remix)"
   }
   
